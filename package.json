@@ -1,5 +1,5 @@
 {
-  "name": "address-lookup-backend-service",
+  "name": "address-lookup-dummy-service",
   "version": "1.0.0",
   "main": "index.js",
   "author": "Ben Meyrick <bameyrick@gmail.com>",
