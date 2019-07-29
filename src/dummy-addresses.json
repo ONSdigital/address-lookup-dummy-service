@@ -1,0 +1,155 @@
+[
+  {
+    "uprn": 0,
+    "en-gb": {
+      "line1": "Example Address 1",
+      "line2": "Street",
+      "town": "Town",
+      "county": "County",
+      "postcode": "AA99 9AA"
+    },
+    "cy": {
+      "line1": "Cyfeiriad Enghreifftiol 1",
+      "line2": "Stryd",
+      "town": "Tref",
+      "county": "Sir",
+      "postcode": "AA99 9AA"
+    }
+  },
+  {
+    "uprn": 1,
+    "en-gb": {
+      "line1": "Example Address 2",
+      "line2": "Street",
+      "town": "Town",
+      "county": "County",
+      "postcode": "AA99 9AA"
+    },
+    "cy": {
+      "line1": "Cyfeiriad Enghreifftiol 2",
+      "line2": "Stryd",
+      "town": "Tref",
+      "county": "Sir",
+      "postcode": "AA99 9AA"
+    }
+  },
+  {
+    "uprn": 2,
+    "en-gb": {
+      "line1": "Example Address 3",
+      "line2": "Street",
+      "town": "Town",
+      "county": "County",
+      "postcode": "AA99 9AA"
+    },
+    "cy": {
+      "line1": "Cyfeiriad Enghreifftiol 3",
+      "line2": "Stryd",
+      "town": "Tref",
+      "county": "Sir",
+      "postcode": "AA99 9AA"
+    }
+  },
+  {
+    "uprn": 3,
+    "en-gb": {
+      "line1": "Example Address 4",
+      "line2": "Street",
+      "town": "Town",
+      "county": "County",
+      "postcode": "AA99 9AA"
+    },
+    "cy": {
+      "line1": "Cyfeiriad Enghreifftiol 4",
+      "line2": "Stryd",
+      "town": "Tref",
+      "county": "Sir",
+      "postcode": "AA99 9AA"
+    }
+  },
+  {
+    "uprn": 5,
+    "en-gb": {
+      "line1": "Example Address 6",
+      "line2": "Street",
+      "town": "Town",
+      "county": "County",
+      "postcode": "AA99 9AA"
+    },
+    "cy": {
+      "line1": "Cyfeiriad Enghreifftiol 6",
+      "line2": "Stryd",
+      "town": "Tref",
+      "county": "Sir",
+      "postcode": "AA99 9AA"
+    }
+  },
+  {
+    "uprn": 6,
+    "en-gb": {
+      "line1": "Example Address 7",
+      "line2": "Street",
+      "town": "Town",
+      "county": "County",
+      "postcode": "AA99 9AA"
+    },
+    "cy": {
+      "line1": "Cyfeiriad Enghreifftiol 7",
+      "line2": "Stryd",
+      "town": "Tref",
+      "county": "Sir",
+      "postcode": "AA99 9AA"
+    }
+  },
+  {
+    "uprn": 7,
+    "en-gb": {
+      "line1": "Example Address 8",
+      "line2": "Street",
+      "town": "Town",
+      "county": "County",
+      "postcode": "AA99 9AA"
+    },
+    "cy": {
+      "line1": "Cyfeiriad Enghreifftiol 8",
+      "line2": "Stryd",
+      "town": "Tref",
+      "county": "Sir",
+      "postcode": "AA99 9AA"
+    }
+  },
+  {
+    "uprn": 8,
+    "en-gb": {
+      "line1": "Example Address 9",
+      "line2": "Street",
+      "town": "Town",
+      "county": "County",
+      "postcode": "AA99 9AA"
+    },
+    "cy": {
+      "line1": "Cyfeiriad Enghreifftiol 9",
+      "line2": "Stryd",
+      "town": "Tref",
+      "county": "Sir",
+      "postcode": "AA99 9AA"
+    }
+  },
+  {
+    "uprn": 9,
+    "en-gb": {
+      "line1": "Example Address 10",
+      "line2": "Street",
+      "town": "Town",
+      "county": "County",
+      "postcode": "AA99 9AA"
+    },
+    "cy": {
+      "line1": "Cyfeiriad Enghreifftiol 10",
+      "line2": "Stryd",
+      "town": "Tref",
+      "county": "Sir",
+      "postcode": "AA99 9AA"
+    }
+  }
+]
